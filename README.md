@@ -20,3 +20,7 @@ The gitignore file will act as a file that ignores any unnecessary files that Gi
 
 # Storage and credentials
 Credentials and information are a very important aspect to keep my projects secure. Authorisation will be used as well as two step verification or SSH keys that only trusted sources will know. This will give only a certain amount of users access to my repositories and projects.
+
+# Branching Strategies
+
+
